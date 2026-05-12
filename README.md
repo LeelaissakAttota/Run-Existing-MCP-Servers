@@ -229,7 +229,6 @@ async with Client(StreamableHttpTransport("https://mcp.context7.com/mcp")) as cl
 |---|---|---|
 | IBM Data Science Professional Certificate | IBM | Coursera |
 | IBM Generative AI Professional Certificate | IBM | Coursera |
-| IBM Agentic AI with RAG Certificate | IBM | Coursera |
 | IBM RAG and Agentic AI Professional Certificate | IBM | Coursera |
 
 ---
